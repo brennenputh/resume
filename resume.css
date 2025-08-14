@@ -1,0 +1,65 @@
+html, body {
+  margin: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+  max-width: 60em;
+  color: black;
+}
+
+body {
+  font: 12px Verdana Arial;
+  -webkit-font-smoothing: subpixel-antialiased;
+  line-height: 1.4em;
+}
+
+body > *:first-child {
+  margin-top: 0 !important;
+}
+
+body > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+h1, h2, h5 {
+  margin: 0.5em 0px;
+}
+
+ul {
+  padding-left: 1em;
+  margin: 0;
+}
+
+p {
+  margin: 0 0;
+}
+
+.lr-split {
+  display: flex;
+  justify-content: space-between;
+}
+
+#skills {
+  display: flex;
+  gap: 1em;
+  width: 100%;
+}
+
+#skills {
+  list-style: none;
+  text-align: center;
+}
+
+#projects {
+  display: flex;
+}
+
+#projects-text {
+  flex-direction: column;
+}
+
+/* PDF-only page settings. */
+@page {
+  size: letter;
+  padding-left: 0em;
+  margin: 3mm 0mm;
+}
