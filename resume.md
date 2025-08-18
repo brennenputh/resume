@@ -2,30 +2,25 @@
 title: Brennen Puth
 ---
 
-##### Rochester, NY | [585-405-2491](tel:+5854052491) | [brennenputh@gmail.com](mailto:brennenputh@gmail.com) | [https://brennenputh.me/](https://brennenputh.me) | [Brennen Puth on LinkedIn](www.linkedin.com/in/brennen-puth-b07aa9316)
+##### Rochester, NY | 585-405-2491 | [brennenputh@gmail.com](mailto:brennenputh@gmail.com) | [https://brennenputh.me/](https://brennenputh.me) | [Brennen Puth on LinkedIn](www.linkedin.com/in/brennen-puth-b07aa9316)
 
 ## Skills
 
-<div id="skills">
+<div class="skills">
 
-:::::::::::::: {.columns align=top} 
+:::::::::::::: {.columns align=top}
 ::: {.column width="33%" align=center}
 
 <div>
 
 #### Languages
 
-Java\
-Kotlin\
-Python \
-HTML\
-CSS\
-TypeScript\
-JavaScript\
-C++\
-Shell\
-Bash\
-Rust
+Java, Kotlin\
+Python\
+HTML, CSS\
+TypeScript, JavaScript\
+C, C++, Rust\
+bash/sh/fish/just
 
 </div>
 ::: 
@@ -34,27 +29,26 @@ Rust
 
 #### Tools
 
-ReactJS\
-Django\
-JUnit\
-Gradle\
-CMake\
-Cargo\
-Git\
-just
+Git, GitHub\
+ReactJS, Svelte\
+Django, Flask\
+JUnit, Gradle\
+CMake, make\
+Cargo, Clippy, actix-web\
 
 </div>
 ::: 
 ::: {.column width="33%" align=center}
 <div>
 
-#### Operating Systems
+#### OS Management
 
 Fedora\
 Ubuntu\
 CentOS\
 Arch\
-Cloud Native tools (bootc, rpm-ostree)
+Docker,Podman\
+bootc
 
 </div>
 </div>
@@ -80,8 +74,8 @@ Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Cyb
 **Software Engineer Intern** | Paychex | 2025-05 to 2025-08
 
 * Authored Annual Reconciliation software for the jurisdictions of North Dakota and Alabama in Java.
-* Designed scripts for MongoDB in Python to optimize work productivity.
-* Interacted with Oracle databases to ensure full data migration between old and new designs.
+* Designed scripts for MongoDB in Python to optimize work productivity and precision.
+* Operated on Oracle databases to ensure quality of migration between software stacks.
 
 **Full Stack Web Developer** | Scholarshelf | 2024-06 to 2025-04
 
@@ -98,9 +92,10 @@ Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Cyb
 **Junior Leader** | Camp Hickory Hill | 2020-07 to 2023-08
 
 * Co-managed a team of volunteer campers to serve the camp by cleaning and building.
-* Trained volunteers to clean several areas of the camp.
+* Trained volunteers to clean the camp.
+* Led discussions within the team about service, dedication, and integrity.
 
-## Activities
+## Extracurriculars
 
 **LightSys Code-A-Thon Participant** | 2024-04 to 2025-04
 
@@ -122,12 +117,10 @@ Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Cyb
 
 * Scored 1340 points in the Capture The Flag NCL Individual Game.
 
-<div id="projects">
-
-<div id="projects-text">
-
 ## Projects
 
+<div id="projects">
+<div id="projects-text">
 To see past work I'm proud of, please visit the following link or scan the QR code: [https://brennenputh.me/projects](https://brennenputh.me/projects)
 
 </div>

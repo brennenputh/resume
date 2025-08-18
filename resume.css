@@ -2,7 +2,7 @@ html, body {
   margin: auto;
   padding-left: 1em;
   padding-right: 1em;
-  max-width: 60em;
+  max-width: 70em;
   color: black;
 }
 
@@ -38,28 +38,39 @@ p {
   justify-content: space-between;
 }
 
-#skills {
-  display: flex;
-  gap: 1em;
+.skills {
   width: 100%;
+  text-align: center;
 }
 
 #skills {
-  list-style: none;
-  text-align: center;
+  margin-bottom: 0px;
 }
 
 #projects {
   display: flex;
+  justify-content: space-between;
 }
 
 #projects-text {
   flex-direction: column;
 }
 
-/* PDF-only page settings. */
+/* PDF-only settings */
 @page {
   size: letter;
   padding-left: 0em;
   margin: 3mm 0mm;
+}
+
+/* HTML-only settings */
+@media screen {
+  a:visited {
+    color: #0000FF;
+  }
+
+  h2 {
+    color: rgb(130, 130, 250);
+    border-bottom: solid 1px;
+  }
 }
