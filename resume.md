@@ -19,7 +19,8 @@ Java, Kotlin\
 Python\
 HTML, CSS\
 TypeScript, JavaScript\
-C, C++, Rust\
+C, C++\
+Rust\
 bash, sh, fish
 
 </div>
