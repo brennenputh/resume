@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-  font: 12px Verdana Arial;
+  font: 13px Cambria Verdana Arial;
   -webkit-font-smoothing: subpixel-antialiased;
   line-height: 1.4em;
 }
@@ -63,6 +63,8 @@ p {
   margin: 3mm 0mm;
 }
 
+
+
 /* HTML-only settings */
 @media screen {
   a:visited {
@@ -72,5 +74,9 @@ p {
   h2 {
     color: rgb(130, 130, 250);
     border-bottom: solid 1px;
+  }
+
+  body {
+    font-size: 16px;
   }
 }
