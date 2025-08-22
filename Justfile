@@ -5,4 +5,6 @@ build:
   weasyprint out/resume.html out/resume.pdf
 
 dev:
+  -xdg-open out/resume.html
+  -xdg-open out/resume.pdf
   inotifywait -r -m -e modify resume.md resume.css | while read file_path file_event file_name; do just build; done
