@@ -63,8 +63,7 @@ Flask\
 Django\
 ReactJS\
 Svelte\
-Tauri\
-
+Tauri
 
 </div>
 </div>
@@ -92,36 +91,36 @@ Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Cyb
 <p>2025-05 to 2025-08</p>
 </div>
 
-* Authored Annual Reconciliation software for the jurisdictions of North Dakota and Alabama in Java.
-* Designed scripts for MongoDB in Python to optimize work productivity and precision.
-* Operated on Oracle databases to ensure quality of migration between software stacks.
+- Authored Annual Reconciliation software for the jurisdictions of North Dakota and Alabama in Java.
+- Designed scripts for MongoDB in Python to optimize work productivity and precision.
+- Operated on Oracle databases to ensure quality of migration between software stacks.
 
 <div class="lr-split">
 <p>**Full Stack Web Developer** | Scholarshelf</p>
 <p>2024-06 to 2025-04</p>
 </div>
 
-* Designed a web application from scratch for viewing user-provided audio content.
-* Implemented Progressive Web Application technology to enhance mobile users’ experiences with the application.
-* Negotiated requirements with the client to ensure implementation was feasible.
+- Designed a web application from scratch for viewing user-provided audio content.
+- Implemented Progressive Web Application technology to enhance mobile users’ experiences with the application.
+- Negotiated requirements with the client to ensure implementation was feasible.
 
 <div class="lr-split">
 <p>**Data Organization** | C22Tech</p>
 <p>2023-12 to 2024-01</p>
 </div>
 
-* Organized internal note structure to be consistent by writing automation scripts.
-* Developed several scripts to ensure efficiency of data entry.
-* Collaborated with team members to ensure accuracy and completeness of internal notes.
+- Organized internal note structure to be consistent by writing automation scripts.
+- Developed several scripts to ensure efficiency of data entry.
+- Collaborated with team members to ensure accuracy and completeness of internal notes.
 
 <div class="lr-split">
 <p>**Junior Leader** | Camp Hickory Hill</p>
 <p>2020-07 to 2023-08</p>
 </div>
 
-* Co-managed a team of volunteer campers to serve the camp by cleaning and building.
-* Trained volunteers to clean the camp.
-* Led discussions within the team about service, dedication, and integrity.
+- Co-managed a team of volunteer campers to serve the camp by cleaning and building.
+- Trained volunteers to clean the camp.
+- Led discussions within the team about service, dedication, and integrity.
 
 ## Extracurriculars
 
@@ -130,29 +129,29 @@ Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Cyb
 <p>2024-04 to 2025-04</p>
 </div>
 
-* Volunteered with a team of 4 to build a ReactJS app in a week to support a non-profit organization.
-* Managed the development of the front-end systems using GitHub to store source code.
+- Volunteered with a team of 4 to build a ReactJS app in a week to support a non-profit organization.
+- Managed the development of the front-end systems using GitHub to store source code.
 
 <div class="lr-split">
 <p>**First Robotics Competition McQuaid Igknighters Programming Lead**</p>
 <p>2020-01 to 2023-05</p>
 </div>
 
-* Led a team of 5 programming students in developing software for a robot.
-* Coordinated with mechanical and electrical sub teams to ensure a high-quality final product.
-* Developed a system for managing robot log files and using them to inform design decisions.
+- Led a team of 5 programming students in developing software for a robot.
+- Coordinated with mechanical and electrical sub teams to ensure a high-quality final product.
+- Developed a system for managing robot log files and using them to inform design decisions.
 
 <div class="lr-split">
 <p>**WPILib Volunteer Software Contributor**</p>
 <p>2022-11 to 2023-05</p>
 </div>
 
-* Collaborated with developers from around the world to build an effective API for AprilTag data in C++ and Java.
-* Practiced Git and GitHub skills while submitting a pull request to the WPILib repository on GitHub.
+- Collaborated with developers from around the world to build an effective API for AprilTag data in C++ and Java.
+- Practiced Git and GitHub skills while submitting a pull request to the WPILib repository on GitHub.
 
 <div class="lr-split">
 <p>**National Cyber League Participant**</p>
 <p>2023-10 to 2023-11</p>
 </div>
 
-* Scored 1340 points in the Capture The Flag NCL Individual Game.
+- Scored 1340 points in the Capture The Flag NCL Individual Game.
