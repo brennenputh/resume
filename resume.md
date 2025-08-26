@@ -35,7 +35,7 @@ ReactJS, Svelte\
 JUnit, Gradle\
 CMake, make\
 Cargo, Clippy\
-just
+ChatGPT, Gemini
 
 </div>
 ::: 
@@ -82,7 +82,7 @@ Tauri
 <p>Anticipated Graduation 05/2027</p>
 </div>
 
-Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Cyber Defense, Computer Architecture
+Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Algorithms, Digital Logic Design
 
 ## Experience
 
