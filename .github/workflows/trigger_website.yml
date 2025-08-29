@@ -1,0 +1,19 @@
+---
+name: Trigger Website Workflows
+---
+on:
+  push:
+    branches: [main]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.PAT }}
+          repository: brennenputh/brennenputh.me
+          event-type: website-pull
