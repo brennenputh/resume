@@ -1,6 +1,5 @@
----
 name: Trigger Website Workflows
----
+
 on:
   push:
     branches: [main]
