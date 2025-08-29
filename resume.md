@@ -154,4 +154,4 @@ Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Alg
 <p>2023-10 to 2023-11</p>
 </div>
 
-- Scored 1340 out of 3000 points in the Capture The Flag NCL Individual Game.
+- Scored 1340 points in the Capture The Flag NCL Individual Game.
