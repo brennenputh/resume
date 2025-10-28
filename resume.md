@@ -2,7 +2,7 @@
 title: Brennen Puth
 ---
 
-##### Rochester, NY | 585-405-2491 | [brennenputh@gmail.com](mailto:brennenputh@gmail.com) | [https://brennenputh.me/](https://brennenputh.me/)
+##### Rochester, NY | 585-405-2491 | [bputh.blog@gmail.com](mailto:bputh.blog@gmail.com) | [https://brennenputh.me/](https://brennenputh.me/)
 
 ## Skills
 
@@ -82,7 +82,7 @@ Tauri
 <p>Anticipated Graduation 05/2027</p>
 </div>
 
-Relevant Coursework: Object Oriented Design in C++, Data Structures in Java, Algorithms, Digital Logic Design
+Relevant Coursework: OO Design (C++), Data Structures (Java), Algorithms, Computer Architecture, Microcontrollers
 
 ## Experience
 
